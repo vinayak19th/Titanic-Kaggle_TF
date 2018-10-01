@@ -1,3 +1,8 @@
-[1-10-18 2:01 AM] - Fixed data preprocessing code; Added SKlearn Modules: Imputer,MinMax Scaler
-[1-10-18 5:21 PM] - Created Seperate folders and branches for differnt implementations
-[1-10-18 6:34 PM] - Automated Preprocessing for Train and Test Data
+[1-10-18] 
+- Fixed data preprocessing code; Added SKlearn Modules: Imputer,MinMax Scaler
+- Created Seperate folders and branches for differnt implementations
+- Automated Preprocessing for Train and Test Data
+[2-10-18] 
+- Completed Sklearn implementations for logistic Regression, SVC and Random Forest
+- Changes names
+- Created new branch
